@@ -12,7 +12,10 @@
 
 ### Logo
 
-![Arai-Eek Lab CNX 2026 Logo](./Arai-Eek%20Lab%20CNX%202026%20Logo.png)
+![Arai-Eek Lab CNX 2026 Logo](./Arai-Eek%20Lab%20CNX%202026%20Logo.png) 
+
+### Icon
+![Arai-Eek Lab CNX 2026 Icon](./Arai-Eek%20Lab%20CNX%202026%20icon.svg) 
 
 
 ### Stickers
